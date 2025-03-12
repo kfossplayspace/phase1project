@@ -6,10 +6,21 @@
             text-align: center;
             box-sizing: border-box;
             }
-       .keith-img {
-                width:250px;
-                height:auto}
+       .img-div {
+                width:50%;
+                height:auto;
+                align-content: center;
+                 }
         ul {list-style-type: none;}
-        .company{ background-color: aliceblue;}
+        .company{ background-color: aliceblue;
+        align-content: center;}
+        .pilots{align-content: center;}
+        .large-title{font-size: 3em;
+            padding-top: 20px;
+            text-align: center;
+       }     
+       .subtitle{align-content: center;}
         h2 {color: darkblue;
             }
+   
+        
