@@ -7,5 +7,6 @@
             box-sizing: border-box;
             }
        .keith-img {
-                width:100px;
-                height}
+                width:250px;
+                height:auto}
+        ul {list-style-type: none;}
